@@ -1,7 +1,6 @@
 # 02_email_de_report
  
-Descrição
-Gera um report diferente e envia emails para o gerente de cada área de uma empresa:
+O arquivo "email_report.ipynb" é um script que gera um report diferente e, envia emails para o gerente de cada área de uma empresa:
 Financeiro
 Logística
 Manutenção
