@@ -10,7 +10,8 @@ Operações
 Produção
 Vendas
 
-Inclusive, envia em anexo os dados da respectiva área, e embutido no corpo do e-mail, um gráfico gerado pelo próprio script
+Inclusive, envia em anexo os dados da respectiva área, e embutido no corpo do e-mail, um gráfico gerado pelo próprio script:
+[!Alt text](https://github.com/ihaveonesun/02_email_de_report/blob/main/sample%20de%20imagens/img_Vendas.png?raw=true "Amostra")
 
 Nota1: seu email de envio (endereço remetente), deve estar com a opção smtp ativada, caso contrário ocorrerá erro.
 
